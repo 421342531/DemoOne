@@ -10,6 +10,15 @@ public class kk {
 
 		
 		System.out.println("this first demo");
+		
+		System.out.println("123");
+		
 	}
+	public void test() {
+		
+		System.out.println("this is test" );
+		
+	}
+	
 
 }
